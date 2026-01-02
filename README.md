@@ -1,1 +1,1 @@
-# dell-optiplex-3080-efi-sonoma
+# Dell Optiplex 3080 MFF EFI - Sonoma
