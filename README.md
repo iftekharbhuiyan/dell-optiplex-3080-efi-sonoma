@@ -1,6 +1,6 @@
 # Dell Optiplex 3080 MFF EFI - macOS Sonoma
 
-[![Static Badge](https://img.shields.io/badge/macOS-Sonoma-brightgreen)](https://developer.apple.com/documentation/macos-release-notes/macos-14-release-notes)
+[![Static Badge](https://img.shields.io/badge/macOS-Sonoma-green)](https://developer.apple.com/documentation/macos-release-notes/macos-14-release-notes)
 [![Static Badge](https://img.shields.io/badge/OpenCore-1.0.6-blue)](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.6)
 [![Static Badge](https://img.shields.io/badge/License-MIT-purple)](/LICENSE)
 
