@@ -27,3 +27,22 @@
 | WiFi & BT    | Intel Wireless-AC 8265NGW           | Works  |
 | Ethernet     | Realtek RTL8111 GbE Controller      | Works  |
 | Speaker      | Internal                            | Works  |
+
+## BIOS
+
+<p>Coming soon.</p>
+
+## Notes
+
+<p>Pretty much everything worked as expected.</p>
+
+## Credits
+
+- [Acidanthera](https://github.com/acidanthera) - OpenCorePkg
+- [lzhoang2801](https://github.com/lzhoang2801) - OpenCore Simplify
+- [OpenIntelWireless](https://github.com/OpenIntelWireless) - Intel Wireless
+- [Mieze](https://github.com/Mieze) - Realtek RTL8111
+- [ic005k](https://github.com/ic005k) - OC Auxiliary Tools
+- [corpnewt](https://github.com/corpnewt/) - ProperTree
+- [USBToolBox](https://github.com/USBToolBox) - USB Mapping Tool
+- [badges](https://github.com/badges) - Shields.io
